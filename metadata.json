@@ -1,0 +1,5 @@
+{
+  "name": "电动车智能助手",
+  "description": "智能管理您的通勤电量。追踪消耗，预测耗尽日期（自动排除周末），并提供 AI 充电建议。",
+  "requestFramePermissions": []
+}
